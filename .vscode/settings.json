@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 18,
+    "workbench.colorTheme":"Default High Contrast",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.fontSize": 25,
+}
